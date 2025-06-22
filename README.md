@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/ouro-kronii.gif" alt="Ouro Kronii GIF" />
+  <img src="img/kroniii.gif" alt="Ouro Kronii GIF" width="400px" />
 </p>
 
 <p align="center">
