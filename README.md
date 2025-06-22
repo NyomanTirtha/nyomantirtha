@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NyomanTirtha&label=Visitors&color=blue" alt="Visitors" />
+  <img src="https://profile-counter.glitch.me/nyomantirtha/count.svg?"  />
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -45,3 +46,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/nyomantirtha/nyomantirtha/output/snake.svg" alt="Snake animation" />
