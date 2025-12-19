@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
+  <img src="https://profile-counter.deno.dev/:nyomantirtha:/count.svg" alt="Key:: Visitor's Count" />
 </p>
 
 
