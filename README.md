@@ -13,15 +13,6 @@
   </a>
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NyomanTirtha&show_icons=true&theme=radical" alt="Nyoman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyomanTirtha&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
 ## Socials
 
 <p align="center">
