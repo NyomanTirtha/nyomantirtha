@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NyomanTirtha&style=flat-square />
+  <img src="https://komarev.com/ghpvc/?username=NyomanTirtha&style=flat-square" />
 </p>
 
 
