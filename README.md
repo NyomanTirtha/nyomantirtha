@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.deno.dev/:NyomanTirtha:/count.svg" alt="Key:: Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=NyomanTirtha&style=flat-square />
 </p>
 
 
